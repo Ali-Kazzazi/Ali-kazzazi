@@ -24,6 +24,20 @@
 
 I'm Ali Kazzazi and I'm passionate about technology, coffee, music and hiking. When I'm not coding or researching, you'd likely find me exploring the great outdoors!
 
+**Social Media:**
+
+[![GitHub](res/github.png)](https://github.com/Ali-Kazzazi)
+[![Twitter](res/twitter.png)](https://twitter.com/__AliKazzazi__)
+[![LinkedIn](res/linkedin.png)](https://www.linkedin.com/in/alikazzazi/)
+[![Instagram](res/instagram.png)](https://www.instagram.com/ali.kazzazi.94/)
+
+**Currently working with:**
+
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/python.png" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/git.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/github.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/javascript.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/vscode.png" /></a>
 
 <!--
 **Ali-Kazzazi/Ali-kazzazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
