@@ -15,11 +15,11 @@
                      01000001 01101100 01101001  01001011 01000001 01011010 01011010 01000001 01011010 01001001 
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/code.gif?raw=true" width="500" height="320" />
 
 #QtSoftwareDeveloper #DeepLearningResearcher #MachineVisonEnthusiast 
 I'm Ali Kazzazi and I'm passionate about technology, coffee, music and hiking. When I'm not coding or researching, you'd likely find me exploring the great outdoors!
@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89135083/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg" alt="just for fun :D"></a>
+  <img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg" alt="just for fun :D"></a>
 </p>
