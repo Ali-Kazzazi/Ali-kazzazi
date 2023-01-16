@@ -10,9 +10,8 @@
                      01000001 01101100 01101001  01001011 01000001 01011010 01011010 01000001 01011010 01001001 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Kazzazi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Kazzazi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Kazzazi&show_icons=true&theme=radical)<!--(https://github.com/anuraghazra/github-readme-stats)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Kazzazi&theme=radical)
 
 
 
