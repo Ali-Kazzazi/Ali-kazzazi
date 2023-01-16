@@ -33,6 +33,8 @@ I'm Ali Kazzazi and I'm passionate about technology, coffee, music and hiking. W
 
 **Currently working with:**
 
+<a href="https://www.cplusplus.com/" title="cpp"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/cpp.png" width="32" height="32"/></a>
+<a href="https://www.qt.io/" title="Qt"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/Qt.png" width="32" height="32"/></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/github.png" /></a>
