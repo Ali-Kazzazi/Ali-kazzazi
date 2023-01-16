@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/Ali-Kazzazi"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/tree/master/res/hello.gif" width="20%"></a>
+  <a href="https://github.com/Ali-Kazzazi"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/hello.gif" width="20%"></a>
 </h1>
 
 
