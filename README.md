@@ -15,6 +15,8 @@
                      01000001 01101100 01101001  01001011 01000001 01011010 01011010 01000001 01011010 01001001 
 
 
+#QtSoftwareDeveloper #DeepLearningResearcher #MachineVisonEnthusiast I'm Ali Kazzazi and I'm passionate about technology, coffee, music and hiking. When I'm not coding or researching, you'd likely find me exploring the great outdoors! #CoffeeLover #MusicLover #HikingLover
+
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
