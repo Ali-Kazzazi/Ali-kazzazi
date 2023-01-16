@@ -21,9 +21,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/code.gif?raw=true" width="500" height="320" />
 
-#QtSoftwareDeveloper #DeepLearningResearcher #MachineVisonEnthusiast 
+
 I'm Ali Kazzazi and I'm passionate about technology, coffee, music and hiking. When I'm not coding or researching, you'd likely find me exploring the great outdoors!
-#CoffeeLover #MusicLover #HikingLover
+
 
 <!--
 **Ali-Kazzazi/Ali-kazzazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
