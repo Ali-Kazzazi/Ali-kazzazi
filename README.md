@@ -9,6 +9,8 @@
                     \__|  \__|\__|\__|      \__|  \__|\__|  \__|\________|\________|\__|  \__|\________|\______|
                      01000001 01101100 01101001  01001011 01000001 01011010 01011010 01000001 01011010 01001001 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Kazzazi&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Kazzazi)](https://github.com/anuraghazra/github-readme-stats)
 
 
