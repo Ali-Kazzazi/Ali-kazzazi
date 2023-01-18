@@ -29,17 +29,17 @@ I'm Ali Kazzazi and I'm passionate about technology, coffee, music and hiking. W
 
 <table width="100%">
 <tr>
-<td>
+<td align="center">
 <a href="https://Ali-Kazzazi.github.io">
 <strong>Visit my personal website </strong>
 <br />
 <p>
-<img alt="globe" height="80" src="res/globe.gif" align="center">
+<img alt="globe" height="80" src="res/globe.gif">
 </a>
 </p>
 </td>
 
-<td>
+<td align="center">
 
 **Social Media:**
 
