@@ -24,6 +24,23 @@
 
 I'm Ali Kazzazi and I'm passionate about technology, coffee, music and hiking. When I'm not coding or researching, you'd likely find me exploring the great outdoors!
 
+
+
+
+<table width="100%">
+<tr>
+<td>
+<a href="https://Ali-Kazzazi.github.io">
+<strong>Visit my personal website </strong>
+<br />
+<p>
+<img alt="globe" height="80" src="res/globe.gif">
+</a>
+</p>
+</td>
+
+<td>
+
 **Social Media:**
 
 [![GitHub](res/github.png)](https://github.com/Ali-Kazzazi)
@@ -41,17 +58,11 @@ I'm Ali Kazzazi and I'm passionate about technology, coffee, music and hiking. W
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/javascript.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/vscode.png" /></a>
 
-<td align="center">
-<a href="https://Ali-Kazzazi.github.io">
-<strong>Visit my personal website </strong>
-<br />
-<p>
-
-<img alt="globe" height="80" src="res/globe.gif">
-</a>
-</p>
-
 </td>
+</tr>
+</table>
+
+
 
 <!--
 **Ali-Kazzazi/Ali-kazzazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
