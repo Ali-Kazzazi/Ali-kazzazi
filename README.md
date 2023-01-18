@@ -34,7 +34,7 @@ I'm Ali Kazzazi and I'm passionate about technology, coffee, music and hiking. W
 <strong>Visit my personal website </strong>
 <br />
 <p>
-<a href="https://en.wikipedia.org/wiki/Cat"><img alt="globe" height="80" src="res/globe.gif"></a>
+<a href="https://Ali-Kazzazi.github.io"><img alt="globe" height="80" src="res/globe.gif"></a>
 </a>
 </p>
 </td>
