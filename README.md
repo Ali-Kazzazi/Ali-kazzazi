@@ -34,7 +34,7 @@ I'm Ali Kazzazi and I'm passionate about technology, coffee, music and hiking. W
 <strong>Visit my personal website </strong>
 <br />
 <p>
-<img alt="globe" height="80" src="res/globe.gif">
+<img alt="globe" height="80" src="res/globe.gif" align="center">
 </a>
 </p>
 </td>
