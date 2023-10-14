@@ -68,7 +68,7 @@ I'm Ali Kazzazi and I'm passionate about technology, coffee, music and hiking. W
 
 
 
-<!--
+
 **Ali-Kazzazi/Ali-kazzazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -81,7 +81,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
