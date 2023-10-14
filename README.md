@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/gif3.gif?raw=true" width="40%" />
 
-<p style="font-size:10;">
+<p style="font-size:10pt;">
 
 
                        $$$$$$\  $$\ $$\       $$\   $$\  $$$$$$\  $$$$$$$$\ $$$$$$$$\  $$$$$$\  $$$$$$$$\ $$$$$$\ 
