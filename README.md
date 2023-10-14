@@ -2,10 +2,8 @@
   <a href="https://github.com/Ali-Kazzazi"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/hello.gif?raw=true" width="20%"></a>
 </h1>
 
-<img align="right" alt="GIF" src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/gif3.gif?raw=true" width="40%" />
 
-<p><small>
-  
+
 
 
                        $$$$$$\  $$\ $$\       $$\   $$\  $$$$$$\  $$$$$$$$\ $$$$$$$$\  $$$$$$\  $$$$$$$$\ $$$$$$\ 
@@ -17,13 +15,6 @@
                       $$ |  $$ |$$ |$$ |      $$ | \$$\ $$ |  $$ |$$$$$$$$\ $$$$$$$$\ $$ |  $$ |$$$$$$$$\ $$$$$$\ 
                       \__|  \__|\__|\__|      \__|  \__|\__|  \__|\________|\________|\__|  \__|\________|\______|
                        01000001 01101100 01101001  01001011 01000001 01011010 01011010 01000001 01011010 01001001 
-
-
-  
-
-
-
-</small></p>
 
 
 
@@ -96,5 +87,6 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
+  <img align="right" alt="GIF" src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/gif3.gif?raw=true" width="40%" />
   <img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg" alt="just for fun :D"></a>
 </p>
