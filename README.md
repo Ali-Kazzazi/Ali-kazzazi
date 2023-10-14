@@ -4,7 +4,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/gif3.gif?raw=true" width="40%" />
 
-<font size="2">
+<p><small>
+  
 
 
                        $$$$$$\  $$\ $$\       $$\   $$\  $$$$$$\  $$$$$$$$\ $$$$$$$$\  $$$$$$\  $$$$$$$$\ $$$$$$\ 
@@ -19,7 +20,12 @@
 
 
   
-</font>
+
+
+
+</small></p>
+
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
