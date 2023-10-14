@@ -25,9 +25,7 @@
 <img align="right" alt="GIF" src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/code.gif?raw=true" width="40%" />
 
 
-I'm Ali Kazzazi and I'm passionate about technology, coffee, music and hiking. When I'm not coding or researching, you'd likely find me exploring the great outdoors!
-
-
+I'm passionate about technology, coffee, music, and hiking. You'll likely find me exploring the great outdoors when I'm not coding or researching!
 
 
 <table width="100%">
@@ -73,28 +71,16 @@ I'm Ali Kazzazi and I'm passionate about technology, coffee, music and hiking. W
 <img align="right" alt="GIF" src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/gif3.gif?raw=true" width="500"/>
 <h2> 👨🏻‍💻 About Me </h2>
 
--   🔭 &nbsp; I’m a FullStack Developer with proficiency in the MERN(Mongo DB|Express|React|Node) stack and <strong>3D UI development</strong>
--   🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence .
--   🎓 &nbsp; Pursuing my Masters in Computer Science from University of Illinois at Chicago.
--   🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+-   🔭 &nbsp; I’m a Software Developer with proficiency C++<strong>Qt</strong>
+-   🌱 &nbsp; Enthusiast in Artificial Intelligence and Neuroscience.
+-   🎓 &nbsp; Master's degree, Digital Electronic Systems.
+-   🤔 &nbsp; Exploring new technologies 
 -   💼 &nbsp; Software Engineer.
--   ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
-
-- 🔭 I’m currently working as a Software Developer and AI Researcher.
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+-   ⚡ &nbsp; ❤☕❤
 <h3>🛠 Tech Stack</h3>
 
--   💻 &nbsp; JavaScript | Python | ReactJS | NodeJS | Express | Three JS
+-   💻 &nbsp; Qt | C++ | Python | NodeJS | Express
 -   🌐 &nbsp; React Native | HTML | CSS | JavaScript | Bootstrap
--   🛢 &nbsp; Mongo DB | MySQL | Firebase
 -   🔧 &nbsp; Visual Studio code | Git
 
 <br>
