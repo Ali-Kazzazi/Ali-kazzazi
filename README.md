@@ -80,7 +80,6 @@ I'm passionate about technology, coffee, music, and hiking. You'll likely find m
 <h3>🛠 Tech Stack</h3>
 
 -   💻 &nbsp; Qt | C++ | Python | NodeJS | Express
--   🌐 &nbsp; React Native | HTML | CSS | JavaScript | Bootstrap
 -   🔧 &nbsp; Visual Studio code | Git
 
 <br>
