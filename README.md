@@ -68,17 +68,6 @@ I'm Ali Kazzazi and I'm passionate about technology, coffee, music and hiking. W
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- 🔭 I’m currently working as a Software Developer and AI Researcher.
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<br/>
-<br/>
 
 <h2> Hey there! I'm Rishab Lamba.</h2>
 <img align="right" alt="GIF" src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/gif3.gif?raw=true" width="500"/>
@@ -91,6 +80,16 @@ I'm Ali Kazzazi and I'm passionate about technology, coffee, music and hiking. W
 -   💼 &nbsp; Software Engineer.
 -   ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
+- 🔭 I’m currently working as a Software Developer and AI Researcher.
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
 <h3>🛠 Tech Stack</h3>
 
 -   💻 &nbsp; JavaScript | Python | ReactJS | NodeJS | Express | Three JS
@@ -100,10 +99,12 @@ I'm Ali Kazzazi and I'm passionate about technology, coffee, music and hiking. W
 
 <br>
 
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rikki407&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rikki407's Github Stats">
+-->
 
-</br>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
   
   <img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg" alt="just for fun :D"></a>
