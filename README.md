@@ -66,8 +66,6 @@ I'm passionate about technology, coffee, music, and hiking. You'll likely find m
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
-<h2> Hey there! I'm Rishab Lamba.</h2>
 <img align="right" alt="GIF" src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/gif3.gif?raw=true" width="500"/>
 <h2> 👨🏻‍💻 About Me </h2>
 
