@@ -25,7 +25,7 @@
 <img align="right" alt="GIF" src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/code.gif?raw=true" width="40%" />
 
 
-I'm passionate about technology, coffee, music, and hiking. You'll likely find me exploring the great outdoors when I'm not coding or researching!
+I'm passionate about technology, coffee, music, and hiking. You'll likely find me exploring outdoors when I'm not coding or researching!
 
 
 <table width="100%">
