@@ -21,6 +21,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
+<img align="right" alt="GIF" src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/code.gif?raw=true" width="40%" />
 
 I'm passionate about technology, coffee, music, and hiking. You'll likely find me exploring outdoors when I'm not coding or researching!
 
@@ -61,7 +62,6 @@ I'm passionate about technology, coffee, music, and hiking. You'll likely find m
 </tr>
 </table>
 
-<img align="right" alt="GIF" src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/code.gif?raw=true" width="40%" />
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
