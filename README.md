@@ -46,7 +46,7 @@ I'm passionate about technology, coffee, music, and hiking. You'll likely find m
 [![Twitter](res/twitter.png)](https://twitter.com/__AliKazzazi__)
 [![LinkedIn](res/linkedin.png)](https://www.linkedin.com/in/alikazzazi/)
 [![Instagram](res/instagram.png)](https://www.instagram.com/ali.kazzazi.94/)
-[![YouTube](res/youtube.png)](https://www.youtube.com/@ALIDEVANTIX)
+[![YouTube](res/youtube.png)](https://www.youtube.com/@QuietMetamorphosis)
 
 **Currently working with:**
 
