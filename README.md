@@ -23,7 +23,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/code.gif?raw=true" width="40%" />
 
-I'm passionate about technology, coffee, music, and hiking. You'll likely find me exploring outdoors when I'm not coding or researching!
+I'm passionate about technology, neuroscience, and creative problem-solving. I enjoy exploring the intersection of AI, spiking neural networks, and modern software engineering. Outside of coding and research, I'm fueled by coffee, inspired by music, and often out walking through the city to clear my mind and spark new ideas.
 
 
 <table width="100%">
