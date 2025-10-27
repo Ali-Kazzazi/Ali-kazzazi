@@ -21,7 +21,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<img align="right" alt="GIF" src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/code.gif?raw=true" width="40%" />
+<img align="right" alt="GIF" src="https://github.com/Ali-Kazzazi/Ali-kazzazi/blob/master/res/pixel_dev.gif?raw=true" width="40%" />
 
 I'm passionate about technology, neuroscience, and creative problem-solving. I enjoy exploring the intersection of AI, spiking neural networks, and modern software engineering. Outside of coding and research, I'm fueled by coffee, inspired by music, and often out walking through the city to clear my mind and spark new ideas.
 
